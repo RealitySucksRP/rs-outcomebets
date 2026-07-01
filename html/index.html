@@ -1,0 +1,33 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RS Outcome Bets</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app" class="hidden">
+    <div class="poster">
+      <button id="close" type="button">X</button>
+      <div class="stamp" id="state">CAGE COLD</div>
+      <h1 id="title">UNDERGROUND CARD</h1>
+      <div class="sub" id="round">Round --</div>
+      <div class="timer"><span id="timer">--</span></div>
+      <p id="prompt">Walk up to the bank and place your bet.</p>
+      <div id="outcomes" class="outcomes"></div>
+      <div class="ticket">
+        <label for="amount">Stake</label>
+        <input id="amount" type="number" value="500" min="1" />
+        <div id="selected">No outcome selected</div>
+        <button id="place" type="button">PLACE BET</button>
+      </div>
+      <div id="hype" class="hype"></div>
+      <div id="leave" class="leave hidden"></div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+    <audio id="rsobVoiceAudio" preload="auto"></audio>
+</body>
+</html>
+

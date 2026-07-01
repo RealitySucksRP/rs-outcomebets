@@ -1,0 +1,12 @@
+.agents/
+_audio_patch_backup_before_voice/
+_voice_new_only_backup_20260626_165132/
+tebex_assets/rs-outcomebets-tebex-banner-v2.png
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
+*.log
+
+# Do not package nested/invalid git metadata
+.git/
