@@ -4,6 +4,8 @@
 
 Turn your city into a live underground street spectacle.
 
+CHECK OUT MY TEBEX STORE: https://reality-sucks-rp-webstore.tebex.io/
+
 RS-Outcomes is an NPC-driven FiveM RP event resource where players gather around a cage arena, predict chaotic NPC outcomes, watch the show unfold live, and react to dynamic performer, reactor, and crowd moments.
 
 Built for immersive city events, nightlife districts, gang territory RP, streamer events, community nights, and public social hubs.
