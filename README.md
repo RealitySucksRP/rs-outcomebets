@@ -1,5 +1,13 @@
 # RS-OUTCOMES — NPC Prediction Arena
 
+<!-- RS community links -->
+
+Free NPC prediction-arena roleplay for FiveM community events, with performers, reactions and crowd moments. RP entertainment only.
+
+[Website](https://realitysucksrp.github.io/) | [Tebex Store](https://reality-sucks-rp-webstore.tebex.io/) | [Free Scripts](https://reality-sucks-rp-webstore.tebex.io/category/free-scripts) | [Discord](https://discord.gg/e9V3rPHySx) | [YouTube](https://www.youtube.com/@RealitySucksRP)
+
+<!-- /RS community links -->
+
 ![RS-Outcomes NPC Prediction Arena](tebex_assets/rs-outcomes-tebex-banner-safe.png)
 
 <p align="center">
