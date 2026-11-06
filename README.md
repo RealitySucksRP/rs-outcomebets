@@ -37,7 +37,7 @@ You are encouraged to add outcomes, create NPC reactions, build new arenas, impr
 
 Please keep credit to the original creator:
 
-**Original Creator:** Reality Sucks RP / William Brito  
+**Original Creator:** RealitySucksRP
 **Original Resource:** RS-Outcomes / RS-OutcomeBets
 
 Licensed under the [BSD 3-Clause License](LICENSE).
